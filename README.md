@@ -3,6 +3,12 @@
 Installation
 ------------
 
+[![Latest Stable Version](https://poser.pugx.org/sevenfloor/yii2-morpher/version)](https://packagist.org/packages/sevenfloor/yii2-morpher)
+[![Total Downloads](https://poser.pugx.org/sevenfloor/yii2-morpher/downloads)](https://packagist.org/packages/sevenfloor/yii2-morpher)
+[![Latest Unstable Version](https://poser.pugx.org/sevenfloor/yii2-morpher/v/unstable)](//packagist.org/packages/sevenfloor/yii2-morpher)
+[![License](https://poser.pugx.org/sevenfloor/yii2-morpher/license)](https://packagist.org/packages/sevenfloor/yii2-morpher)
+[![composer.lock available](https://poser.pugx.org/sevenfloor/yii2-morpher/composerlock)](https://packagist.org/packages/sevenfloor/yii2-morpher)
+
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 Either run
