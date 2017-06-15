@@ -3,24 +3,24 @@
 Installation
 ------------
 
-[![Latest Stable Version](https://poser.pugx.org/sevenfloor/yii2-morpher/version)](https://packagist.org/packages/sevenfloor/yii2-morpher)
-[![Total Downloads](https://poser.pugx.org/sevenfloor/yii2-morpher/downloads)](https://packagist.org/packages/sevenfloor/yii2-morpher)
-[![Latest Unstable Version](https://poser.pugx.org/sevenfloor/yii2-morpher/v/unstable)](//packagist.org/packages/sevenfloor/yii2-morpher)
-[![License](https://poser.pugx.org/sevenfloor/yii2-morpher/license)](https://packagist.org/packages/sevenfloor/yii2-morpher)
-[![composer.lock available](https://poser.pugx.org/sevenfloor/yii2-morpher/composerlock)](https://packagist.org/packages/sevenfloor/yii2-morpher)
+[![Latest Stable Version](https://poser.pugx.org/slawap/yii2-morpher/version)](https://packagist.org/packages/slawap/yii2-morpher)
+[![Total Downloads](https://poser.pugx.org/slawap/yii2-morpher/downloads)](https://packagist.org/packages/slawap/yii2-morpher)
+[![Latest Unstable Version](https://poser.pugx.org/slawap/yii2-morpher/v/unstable)](//packagist.org/packages/slawap/yii2-morpher)
+[![License](https://poser.pugx.org/slawap/yii2-morpher/license)](https://packagist.org/packages/slawap/yii2-morpher)
+[![composer.lock available](https://poser.pugx.org/slawap/yii2-morpher/composerlock)](https://packagist.org/packages/slawap/yii2-morpher)
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 Either run
 
 ```
-composer require --prefer-dist sevenfloor/yii2-morpher
+composer require --prefer-dist slawap/yii2-morpher
 ```
 
 or add
 
 ```json
-"sevenfloor/yii2-morpher": "*"
+"slawap/yii2-morpher": "*"
 ```
 
 to the `require` section of your composer.json.
@@ -31,7 +31,7 @@ to the `require` section of your composer.json.
 'components' => [
    // ...
     'morpher' => [
-        'class' => 'sevenfloor\morpher\Morpher'
+        'class' => 'slawap\morpher\Morpher'
     ]
     // ...
  ]
